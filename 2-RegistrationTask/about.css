@@ -1,0 +1,43 @@
+img{ 
+    margin-bottom: -15px ;}
+span{
+    font-size: 35px ;
+    color: aliceblue;}
+body{
+    background-image: url('bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 80px;
+    color: red;
+    font-weight: 100;
+    margin-left: 50px;
+}
+div{
+    background-color: #A0D289;
+    margin-left: 400px;
+    margin-right: 50px;
+    border-radius: 12px;
+    height: 450px;
+}
+img.im{
+    width: 250px;
+    height: 170px;
+    padding-left: 55px;
+    padding-top: 25px;
+}
+h3{
+    color: aliceblue;
+    padding-left: 40px;
+    font-weight: 100;
+    font-size: 30px;
+    margin-right: 100px ;
+    margin-left: 30px;
+}
+h3.red{
+    background-color: #FF6262;
+}
+h3.blue{
+    background-color: #152B9B;
+}

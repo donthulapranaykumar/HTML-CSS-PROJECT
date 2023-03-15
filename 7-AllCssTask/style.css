@@ -1,0 +1,142 @@
+body{
+    margin: ;
+    height: ;
+    width: ;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    color:brown;
+    background-color: brown;
+    justify-content: center;
+    background-image: url(yosemite-3840x2160-5k-4k-wallpaper-8k-forest-osx-apple-mountains-181.jpg);
+    background-size: cover;
+}
+.main{
+    width: 400px;
+    height: 600px;
+    padding: 10px 25px 35px 35px ;
+    margin-left: -100px;
+    margin-top: 120px;
+    border-radius:20px ;
+    background-color: gold;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.title{
+    text-align:center;
+    font-size: 80px;
+    color:yellow;
+    letter-spacing: 5px;
+    margin:  60px 10px 10px 20px;
+    font-family: gotham;
+}
+.credentials{
+    width: none;
+    padding: 20px 5px 1px 200px;
+    text-align: center;
+    margin: 10px;
+    
+
+}
+.credentials input{
+    border:none;
+    outline: none;
+    background:none;
+    font-size: 30px;
+    color:black;
+    padding: 20px 10px 20px 5px;
+    letter-spacing: 1px;
+    
+}
+.password{
+    width: none;
+    padding: 20px 5px 10px 20px;
+    text-align: center;
+}
+  .password input{
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 30px;
+    color: black;
+    padding: 20px 10px 20px 5px;
+    letter-spacing: 1px;
+  }
+.username{
+    margin-top: 300px;
+    margin: 30px 20px 10px 100px;
+    border-bottom: 3px solid;
+    transition: 2s ;
+    
+}
+.username::first-letter{
+    font-style: oblique;
+    font-size: xx-large;
+}
+ 
+ 
+.password{
+    margin-top: 0px;
+    margin: 20px 10px 100px 20px ;
+    border-bottom: 3px solid;
+    transition: 4s;
+   
+  }
+  .username:hover{
+    border-bottom: 3px solid;
+  }
+.submit{
+    margin: 600px 200px 30px -300px;
+    outline: none;
+    border: none;
+    width: 100px;
+    height: 60px;
+    border-radius: 30px;
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    background-image: linear-gradient(to right,blue green,yellow);
+    background-size: 20%;
+    box-shadow: 30px 30px 8px blueviolet;
+    
+}
+.submit:hover{
+    background-position: bottom;
+}
+.link a{ 
+    padding: 40px;
+    margin: 20px 10px 20px 10px;
+    color:gold;
+    font-size: 40px;
+    text-decoration: none;
+    border-radius: 30%;
+
+
+
+    animation: pranay1 3s infinite;        /*animation color will changes */
+}
+
+@keyframes pranay1 {
+  from {background-color: olivedrab;}
+  to {background-color: brown}
+}
+
+
+
+
+a::first-letter{
+    font-size: xx-large;
+}
+
+.Reg::first-line{
+    font-style:italic;
+    font-size:70px;
+    
+}
+    
+   
+
+
+    
+

@@ -1,0 +1,133 @@
+body{
+    background-image: url(9b0ad900403b488ff81b7214cdb3c3e6.jpg);
+    background-size: cover;
+    position:fixed;
+    
+}
+button{
+    height: 70px;
+    width: 200px;
+    font-size: 50px;
+    border: 2px solid black;
+    color: red;
+    border-style: dotted;
+}
+
+
+.C1{
+    
+    padding: 80px;
+    padding-top: 20px;
+    padding-left: 60px;
+    height: 20px;
+    width: 300px;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 100px;
+    background-image: url(9b0ad900403b488ff81b7214cdb3c3e6.jpg);
+    
+    
+
+
+    box-shadow: 10px 10px 10px black;
+}
+.C2{
+    
+        
+        padding: 80px;
+        padding-top: 20px;
+        padding-left: 60px;
+        height: 20px;
+        width: 300px;
+        border-radius: 20px;
+        text-align: center;
+        margin-top: -110px;
+        margin-left: 1250px;
+        background-image: url(9b0ad900403b488ff81b7214cdb3c3e6.jpg);
+        
+    
+    
+        box-shadow: 10px 10px 10px black;
+    }
+    .C3{
+        
+        padding: 80px;
+        padding-top: 20px;
+        padding-left: 60px;
+        height: 20px;
+        width: 300px;
+        border-radius: 20px;
+        text-align: center;
+        margin-top: -110px;
+        margin-left: 2400px;
+        position:fixed;
+        background-image: url(9b0ad900403b488ff81b7214cdb3c3e6.jpg);
+    
+    
+        box-shadow: 10px 10px 10px black;
+    
+    }
+
+     
+    .C4{
+        
+        padding: 80px;
+        padding-top: 20px;
+        padding-left: 60px;
+        height: 20px;
+        width: 300px;
+        border-radius: 20px;
+        text-align: center;
+        margin-top: -100px;
+        margin-left: 3500px;
+        background-image: url(9b0ad900403b488ff81b7214cdb3c3e6.jpg);
+        
+    
+    
+        box-shadow: 10px 10px 10px black;
+    }
+
+    h1::first-line{
+        font-size: 200%;
+    }
+
+
+
+
+    .Reg1{
+        font-size: 80px;
+        padding: 400px;
+        margin: 200px 1300px;
+      text-align: center;
+       
+    }
+    h2::first-line{
+        color: brown;
+        font-size: 600%;
+        font-style: oblique;
+
+    }
+    .Reg2{
+        font-size: 80px;
+        margin-left: 1700px;
+        margin-top: -700px;
+    }
+    h3::first-line{
+        color: brown;
+        font-size: 700%;
+        font-style: oblique;
+    }
+    .Log{
+        height: 200px;
+        width: 400px;
+        margin: 300px;
+        margin-left: 1900px;
+        text-align: center;
+        margin-top: 150px;
+        
+    }
+   h4::first-line{
+    font-size: 700%;
+   font-style: oblique;
+   }
